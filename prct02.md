@@ -47,9 +47,9 @@ Para saber si funciona el compilador, crearemos un fichero de código sencillo e
 
 ![image](https://github.com/user-attachments/assets/2ab978fb-2d8e-4b39-b9f6-9b5d66991c1d)
 
-###Comprobación y resolución de errores en la lógica del código
 
-El próximo paso será instalr in *linter* para comprobar de manera estatica nuestro código fuente.
+
+El próximo paso será instalar *linter* para comprobar de manera estatica nuestro código fuente.
 
 ![image](https://github.com/user-attachments/assets/4b79415c-5607-4cc4-b38b-d55888c73b29)
 
@@ -68,7 +68,7 @@ Este mensaje se podrá cambiar, ya sea para desactivar los avisos de errores, o 
 
 ![image](https://github.com/user-attachments/assets/e2059e3b-8ae2-4643-ac99-5dc97ab93187)
 
-###Formateo del códgio
+
 Para finalizar, instalaremos el Prettier que será nuestro formateador de código.
 
 ![image](https://github.com/user-attachments/assets/2988ce54-203e-419d-84e0-c240eab8473e)
